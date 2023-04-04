@@ -28,23 +28,6 @@
         border-radius: 5px;
 }
 
-.form__button {
-    width: 100%;
-    border: none;
-    background-color:darkblue;
-    color: white;
-    padding: 15px;
-    border-radius: 5px;
-} 
-
-.form__button:hover {
-    background-color: hsl(240, 100%, 35%);
-}
-
-.form__button:active {
-    background-color: hsl(240, 100%, 40%);
-}
-
 .form__result {
     display: flex;
     border: 1px solid black;
